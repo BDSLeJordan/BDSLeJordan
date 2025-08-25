@@ -33,7 +33,7 @@
 ### 🧑‍💻 Développeur Junior
 
 - 🌱 J’apprends actuellement : **Next.js**  
-- 🛠️ Stack technique : **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express**, **SupaBase (PostgreSQL)**
+- 🛠️ Stack technique : **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Node.js**, **Express**, **SupaBase (PostgreSQL)**, **NextJS**
 - 🚀 Projets :
   - [Meteoland](https://github.com/BDSLeJordan/MeteolandNext)
 
